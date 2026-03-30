@@ -75,7 +75,7 @@ I set up profiles on GitHub, LinkedIn, and Kaggle. My GitHub already existed but
 
 - GitHub: [github.com/Cloudwork166](https://github.com/Cloudworks166)
 - LinkedIn: [linkedin.com/in/kartik-jasrtia-8a4258380](www.linkedin.com/in/kartik-jasrotia-8a4258380)
-- Kaggle: [kaggle.com/KartikJasrotia1](https://www.researchgate.net/profile/Kartik-Jasrotia?ev=hdr_xprf)
+- ResearchGate: [researchgate.net/Kartik-Jasrotia](https://www.researchgate.net/profile/Kartik-Jasrotia?ev=hdr_xprf)
 
 📂 See: `task-2-portfolio/`
 
@@ -117,7 +117,7 @@ If you or anyone you know has been targeted:
 |----------|------|
 | GitHub Profile |  [github.com/Cloudwork166](https://github.com/Cloudworks166) |
 | LinkedIn |  [linkedin.com/in/kartik-jasrtia-8a4258380](www.linkedin.com/in/kartik-jasrotia-8a4258380) |
-| Kaggle | [kaggle.com/KartikJasrotia1](https://www.researchgate.net/profile/Kartik-Jasrotia?ev=hdr_xprf)|
+|ResearchGate | [researchgate.net/Kartik-Jasrotia](https://www.researchgate.net/profile/Kartik-Jasrotia?ev=hdr_xprf)|
 | Digital Literacy Quiz | [View Form →] ()|
 | Cybercrime Reporting Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 | Cyber Crime Helpline | 1930 (24×7) |
