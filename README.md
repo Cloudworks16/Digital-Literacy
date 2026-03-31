@@ -25,36 +25,35 @@ I went through five tasks covering different areas: creating a digital awareness
 ## Repository Structure
 
 ```
-digital-literacy-project/
+Digital Literacy/
 │
-├── README.md
-├── Project_Report.docx
-│
+├── report/
+│   └── Project_Report.docx
 ├── task-1-presentation/
-│   ├── digital-literacy-infographic.png
-│   └── Task 1 project report.docx
-│
+│   ├── description.md
+│   └── digital-literacy-infographic.png
 ├── task-2-portfolio/
+│   ├── ResearchGate-profile-screenshot.png
 │   ├── github-profile-screenshot.png
 │   ├── linkedin-profile-screenshot.png
-│   ├── kaggle-profile-screenshot.png
-│   └── Task 2 project report.docx
-│
+│   └── reflection.md
 ├── task-3-platforms/
-│   ├── hackerrank-challenge-screenshot.png
 │   ├── google-form-screenshot.png
+│   ├── google-form-screenshot2.png
 │   ├── google-sheet-responses-screenshot.png
-│   └── Task 3 project report.docx
-│
+│   ├── hackerrank-challenge-screenshot.png
+│   ├── hackerrank-challenge-screenshot2.png
+│   └──reflection.md
 ├── task-4-email-etiquette/
-│   ├── professional-emails.docx
-│   ├── social-media-checklist.md
-│   └── Task 4 project report.docx
-│
+│   ├── email-drafts.md
+│   ├── reflection.md
+│   └── social-media-checklist.md
 └── task-5-cybercrime/
-    ├── casestudy.md
-    ├── prevention-checklist.md
-    └── Task 5 project report.docx
+│   ├── casestudy.md
+│   ├── prevention-checklist.md
+│   └── reflection.md
+└── README.md
+
 ```
 
 ---
@@ -85,7 +84,7 @@ I set up profiles on GitHub, LinkedIn, and Kaggle. My GitHub already existed but
 
 For the coding part, I used HackerRank and completed the Python Introduction challenge. For the collaboration part, I built a 5-question Digital Literacy Awareness Quiz using Google Forms — the kind of quiz I could actually use with batchmates.
 
-- Google Form Quiz: [View Form →]()
+- Google Form Quiz: [View Form →](https://docs.google.com/forms/d/e/1FAIpQLScGv1bjSnDvyvE4AWxFeRuMic276rjbrpni1QQQvzSk7cbmhQ/viewform?usp=dialog)
 
 📂 See: `task-3-platforms/`
 
@@ -118,7 +117,7 @@ If you or anyone you know has been targeted:
 | GitHub Profile |  [github.com/Cloudwork166](https://github.com/Cloudworks166) |
 | LinkedIn |  [linkedin.com/in/kartik-jasrtia-8a4258380](www.linkedin.com/in/kartik-jasrotia-8a4258380) |
 |ResearchGate | [researchgate.net/Kartik-Jasrotia](https://www.researchgate.net/profile/Kartik-Jasrotia?ev=hdr_xprf)|
-| Digital Literacy Quiz | [View Form →] ()|
+| Digital Literacy Quiz | [View Form →] (https://docs.google.com/forms/d/e/1FAIpQLScGv1bjSnDvyvE4AWxFeRuMic276rjbrpni1QQQvzSk7cbmhQ/viewform?usp=dialog)|
 | Cybercrime Reporting Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 | Cyber Crime Helpline | 1930 (24×7) |
 
@@ -126,6 +125,6 @@ If you or anyone you know has been targeted:
 
 ## Tools Used
 
-Canva · GitHub · LinkedIn · Kaggle · HackerRank · Google Forms · Google Sheets · MS Word
+Canva · GitHub · LinkedIn · ResearchGate · HackerRank · Google Forms · Google Sheets · MS Word
 
 ---
